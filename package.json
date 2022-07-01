@@ -27,7 +27,7 @@
     "docs": "typedoc --out ./docs/ --readme README.md ./src/",
     "lint": "eslint ./src",
     "unit-test": "floss --path test --",
-    "examples": "http-server -a localhost examples/"
+    "serve": "http-server -a localhost examples/"
   },
   "files": [
     "dist/",
@@ -81,9 +81,6 @@
     "rollup-plugin-typescript": "^1.0.1",
     "tslib": "^2.0.1",
     "typescript": "^3.9.7",
-    "http-server": "*"
-  },
-  "dependencies": {
     "http-server": "^14.1.1"
   }
 }
