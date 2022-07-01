@@ -2,7 +2,7 @@
  
 /*!
  * @pixi/candles - v0.2.0
- * Compiled Fri, 01 Jul 2022 18:41:02 UTC
+ * Compiled Fri, 01 Jul 2022 18:58:35 UTC
  *
  * @pixi/candles is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
